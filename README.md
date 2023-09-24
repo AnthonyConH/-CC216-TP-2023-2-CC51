@@ -6,7 +6,7 @@ CURSO FUNDAMENTOS DATA SCIENCE
  
 Carrera de Ciencias de la Computación.
  
-Sección:  
+Sección:  CC52
  
 Alumnos:
 Código
